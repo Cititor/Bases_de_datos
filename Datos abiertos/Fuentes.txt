@@ -1,0 +1,64 @@
+
+Contratos_Invias_20261012.csv
+    • Contratos realizados por Invias
+      Filas: 16 900
+      Columnas    78
+      Última actualización: 18 de mayo de 2026
+      Datos suministrados porInstituto Nacional de Vías - INVÍAS, Bogotá D.C.
+      SODA 2*: https://www.datos.gov.co/resource/jffd-39rd.json
+      https://www.datos.gov.co/Transporte/Contratos-Invias/jffd-39rd/about_data
+
+
+
+Inmuebles_disponibles_para_arrendamiento_20261012.csv
+    • Inmuebles Disponibles para Arrendamiento
+      Filas:    1 370
+      Columnas:    22
+      Última actualización: 18 de mayo de 2026
+      Datos suministrados por: Sociedad de Activos Especiales S.A.S. - SAE, Bogotá D.C.
+      SODA 2*: https://www.datos.gov.co/resource/vrmj-jg3e.json
+      https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/Inmuebles-Disponibles-para-Arrendamiento/vrmj-jg3e/about_data
+
+
+
+Inmuebles_para_arrendamiento_20261012.csv
+    • Bienes Inmuebles Disponibles para Arrendamiento
+      Última actualización: 18 de mayo de 2026
+      Datos suministrados por: Sociedad de Activos Especiales S.A.S. - SAE, Bogotá D.C.
+      Filas:    850
+      Columnas:   8
+      SODA 2: https://www.datos.gov.co/resource/ugvz-uctu.json
+      https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/Bienes-Inmuebles-Disponibles-para-Arrendamiento/ugvz-uctu/about_data
+
+
+
+Inmuebles_propiedad_del_municipio_20261012.csv
+    • Inventario detallado de los bienes inmuebles (lotes y edificaciones) que forman parte del patrimonio del Municipio de Guadalajara de Buga, incluyendo su identificación catastral y valor de adquisición
+      Última actualización: 15 de septiembre de 2026
+      Datos suministrados por: Alcaldía de Guadalajara de Buga, Valle del Cauca
+      Filas:    1 240
+      Columnas:    18
+      Cada fila es un inmueble
+      SODA 2*: https://www.datos.gov.co/resource/s4uj-pnwh.json
+      https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/BASE-DE-DATOS-BIENES-INMUEBLES-PROPIEDAD-DEL-MUNIC/s4uj-pnwh/about_data
+
+
+
+SECOP II - Contratos electrónicos.json
+    • Información de los contratos registrados en SECOP II desde su lanzamiento
+      Última actualización: 12 de octubre de 2026
+      Datos suministrados por: Agencia Nacional de Contratación Pública - Colombia Compra Eficiente, Bogotá D.C.
+      Filas: 5 630 000
+      Columnas:     95
+      SODA 2*:https://www.datos.gov.co/resource/jbjy-vk9h.json
+      https://www.datos.gov.co/Estad-sticas-Nacionales/SECOP-II-Contratos-Electr-nicos/jbjy-vk9h/data_preview
+      
+
+
+
+
+*  SODA 2: Maximo 1000 filas disponibles. 
+           https://support.socrata.com/hc/en-us/articles/202949268-How-to-query-more-than-1000-rows-of-a-dataset
+
+** SODA 3: Requiere autentificación. 
+           https://support.socrata.com/hc/en-us/articles/34730618169623-Introducing-the-new-SODA3-API
