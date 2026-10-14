@@ -1,0 +1,12 @@
+[
+  {"id":"V011","departamento":"Santander","genero":"F","edad":"39","hora":"10","cantidad":"2","valor_unitario":"53000","estado":"Completado","codigo_promocion":null},
+  {"id":"V012","departamento":"NORTE DE SANTANDER","genero":"Masculino","edad":"22","hora":"15","cantidad":"1","valor_unitario":"88000","estado":"PENDIENTE","codigo_promocion":null},
+  {"id":"V013","departamento":"santander","genero":"femenino","edad":null,"hora":"19","cantidad":"3","valor_unitario":"47000","estado":"completado","codigo_promocion":"PROMO15"},
+  {"id":"V014","departamento":"Atlántico","genero":"M","edad":"58","hora":"6","cantidad":"2","valor_unitario":"69000","estado":"Devuelto","codigo_promocion":null},
+  {"id":"V015","departamento":"Norte de santander","genero":"F","edad":"17","hora":"12","cantidad":"4","valor_unitario":"26000","estado":"COMPLETADO","codigo_promocion":null},
+  {"id":"V016","departamento":"ATLÁNTICO","genero":"MASCULINO","edad":"46","hora":"-2","cantidad":"1","valor_unitario":"115000","estado":"Pendiente","codigo_promocion":null},
+  {"id":"V017","departamento":"Bolívar","genero":"Femenino","edad":"33","hora":"17","cantidad":"2","valor_unitario":"74000","estado":"completado","codigo_promocion":"PROMO5"},
+  {"id":"V018","departamento":"bolívar","genero":"M","edad":"60","hora":"21","cantidad":"3","valor_unitario":"39000","estado":"DEVUELTO","codigo_promocion":null},
+  {"id":"V019","departamento":"Santander","genero":"F","edad":"27","hora":"9","cantidad":"5","valor_unitario":"21000","estado":"Completado","codigo_promocion":null},
+  {"id":"V020","departamento":"Atlántico","genero":"Masculino","edad":null,"hora":"14","cantidad":"2","valor_unitario":"62000","estado":"PENDIENTE","codigo_promocion":null}
+]

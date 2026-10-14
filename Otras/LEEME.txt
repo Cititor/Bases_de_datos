@@ -1,0 +1,20 @@
+ARCHIVOS BASE AA4 EV01
+
+Programa: Limpieza y transformación de datos con Python
+Caso: Empresa ABC S.A.S.
+
+El paquete contiene tres fuentes con la misma estructura y formatos diferentes:
+
+1. ventas_centro.csv
+2. ventas_norte.json
+3. ventas_sur.tsv
+
+Los datos incluyen intencionalmente:
+
+- Diferencias de mayúsculas, minúsculas y etiquetas en departamento, género y estado.
+- Edades nulas y edades fuera del rango de 18 a 60.
+- Horas fuera del rango de 0 a 23.
+- Una columna codigo_promocion con más del 50 por ciento de valores nulos.
+- Campos numéricos almacenados como texto en la fuente JSON.
+
+El aprendiz debe importar las tres fuentes, unificarlas y aplicar los requisitos indicados en el anexo de la evidencia AA4 EV01.
